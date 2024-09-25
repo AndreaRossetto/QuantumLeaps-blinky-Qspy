@@ -1,0 +1,64 @@
+//www.plantuml.com/plantuml/png/VP71pe8m48Jl-nHx_XDUu3yOD112Wk40demX6AasmjQKSl3jfHnmx84JjD_CR3eRZwwrRXfwElzTE8fsVEYrFD-D5ks8uC1VjdZud-ioougqgVACWA3I21Ej_zuoMM7twBX84pO245rAUMb-JCjJZV4UH9WUo50NpbBgboPwREsmSAU7pX85hziZ3U6IRTPuC9lNZ2l_yMEl_bhB7NcO7PG0IkmOIzYKuQZjfL7SoMtU_GS0
+
+
+ @startuml
+
+[*] --> BlinkyInit
+
+
+
+state Blinky_on {
+
+ state blinking_on{
+
+ }
+ state stop_on{
+
+ }
+}
+
+state Blinky_off {
+ state init <<inputPin>>
+
+ state isBlinking <<choice>>
+
+ state blinking_off{
+
+ }
+ state stop_off{
+
+ }
+ state start_off{
+
+ }
+
+}
+
+BlinkyInit --> init
+init --> blinking_off
+
+blinking_on : Turn the LED on
+
+start_off : Arm timer
+stop_off : Disarm the timer
+
+stop_on : Disarm the timer
+
+start_off --> blinking_on
+stop_off --> blinking_off
+
+blinking_off : Turn the LED off
+
+
+blinking_on --> blinking_off : Timeout
+blinking_off --> blinking_on : Timeout
+
+blinking_off --> isBlinking : Toggle
+
+isBlinking --> stop_off : Yes
+isBlinking --> start_off : No
+
+
+blinking_on --> stop_on : Toggle
+stop_on --> blinking_off
+@enduml

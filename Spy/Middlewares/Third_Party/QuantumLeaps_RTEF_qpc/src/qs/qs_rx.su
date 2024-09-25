@@ -1,0 +1,12 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:134:6:QS_rxInitBuf	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:169:6:QS_rxParse	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:215:6:QS_setCurrObj	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:233:10:QS_rxGetNfree	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:256:13:QS_rxParseData_	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:696:13:QS_rxHandleGoodFrame_	40	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:1025:13:QS_rxHandleBadFrame_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:1047:13:QS_rxReportAck_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:1060:13:QS_rxReportError_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:1073:13:QS_rxReportDone_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:1087:13:QS_queryCurrObj	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_rx.c:1146:13:QS_rxPoke_	16	static

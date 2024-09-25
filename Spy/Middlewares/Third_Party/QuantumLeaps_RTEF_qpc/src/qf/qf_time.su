@@ -1,0 +1,9 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:181:20:QEvt_verify_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:70:6:QTimeEvt_ctorX	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:97:6:QTimeEvt_armX	40	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:157:6:QTimeEvt_disarm	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:203:6:QTimeEvt_rearm	32	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:269:6:QTimeEvt_wasDisarmed	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:285:13:QTimeEvt_currCtr	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:296:6:QTimeEvt_tick_	32	static,ignoring_inline_asm
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_time.c:434:6:QTimeEvt_noActive	24	static

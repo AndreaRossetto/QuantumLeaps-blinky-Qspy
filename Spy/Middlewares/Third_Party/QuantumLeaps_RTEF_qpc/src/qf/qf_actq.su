@@ -1,0 +1,13 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:181:20:QEvt_verify_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:187:28:QEvt_getPoolNum_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:707:20:QPSet_insert	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:753:20:QPSet_update_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp_pkg.h:87:20:QEvt_refCtr_inc_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:68:6:QActive_post_	32	static,ignoring_inline_asm
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:215:6:QActive_postLIFO_	32	static,ignoring_inline_asm
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:301:14:QActive_get_	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:354:15:QF_getQueueMin	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:372:6:QTicker_ctor	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:393:6:QTicker_init_	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:414:6:QTicker_dispatch_	32	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_actq.c:439:6:QTicker_trig_	24	static,ignoring_inline_asm

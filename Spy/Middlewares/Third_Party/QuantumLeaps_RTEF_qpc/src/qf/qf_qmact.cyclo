@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:407:29:QMsm_getStateHandler_	1
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qmact.c:69:6:QMActive_ctor	1

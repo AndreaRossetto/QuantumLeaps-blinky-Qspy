@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_64bit.c:51:6:QS_u64_raw_	7
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qs/qs_64bit.c:70:6:QS_u64_fmt_	12

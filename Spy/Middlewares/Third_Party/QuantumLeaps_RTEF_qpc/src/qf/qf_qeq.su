@@ -1,0 +1,6 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp.h:187:28:QEvt_getPoolNum_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/include/qp_pkg.h:87:20:QEvt_refCtr_inc_	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qeq.c:70:6:QEQueue_init	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qeq.c:87:6:QEQueue_post	32	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qeq.c:167:6:QEQueue_postLIFO	32	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qeq.c:219:21:QEQueue_get	24	static

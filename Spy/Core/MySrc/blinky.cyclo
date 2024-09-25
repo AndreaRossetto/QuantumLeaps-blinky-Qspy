@@ -1,0 +1,4 @@
+../Core/MySrc/blinky.c:64:6:Blinky_ctor	1
+../Core/MySrc/blinky.c:74:8:Blinky_initial	1
+../Core/MySrc/blinky.c:94:8:Blinky_off	7
+../Core/MySrc/blinky.c:120:8:Blinky_on	7

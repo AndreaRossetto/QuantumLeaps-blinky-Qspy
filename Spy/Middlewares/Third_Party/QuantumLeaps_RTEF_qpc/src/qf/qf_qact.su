@@ -1,0 +1,3 @@
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qact.c:67:6:QActive_ctor	16	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qact.c:99:6:QActive_register_	24	static
+../Middlewares/Third_Party/QuantumLeaps_RTEF_qpc/src/qf/qf_qact.c:151:6:QActive_unregister_	24	static
